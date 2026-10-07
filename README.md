@@ -1,72 +1,69 @@
-# Hi there 👋
+Olá! 👋 Eu sou Ludmily Lorrany Rodrigues Marques
 
-Welcome to my GitHub profile! I'm a passionate developer committed to creating innovative solutions and contributing to the open-source community.
+🎓 Estudante de Sistemas de Informação
 
-## About Me
+💻 Desenvolvimento Web | Banco de Dados | Programação
 
-I'm dedicated to writing clean, maintainable code and collaborating with talented developers around the world. My journey in tech is driven by curiosity, continuous learning, and a desire to make a positive impact through software.
+## 👩‍💻 Sobre mim
 
-## 💡 What I Do
+Sou estudante de Sistemas de Informação e estou construindo minha trajetória na área de Tecnologia da Informação por meio de projetos acadêmicos e atividades práticas.
 
-- **Build** robust applications and tools
-- **Learn** new technologies and best practices
-- **Collaborate** with teams to solve complex problems
-- **Share** knowledge through open-source contributions
+Durante minha formação, venho desenvolvendo conhecimentos em programação, desenvolvimento web, banco de dados, SQL, Git e GitHub.
 
-## 🛠️ Technology Stack
+Meu objetivo é continuar evoluindo tecnicamente, transformar os conhecimentos adquiridos em projetos práticos e construir um portfólio que demonstre minha evolução na área de tecnologia.
 
-### Languages
-- JavaScript/TypeScript
-- Python
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Linguagens
+
 - Java
+- C
 - SQL
+- PHP
+- HTML
+- CSS
 
-### Tools & Frameworks
-- React
-- Node.js
+### 🗄️ Banco de Dados
+
+- MySQL
+- MySQL Workbench
+
+### 🔧 Ferramentas
+
 - Git
-- Docker
+- GitHub
+- Visual Studio Code
+- NetBeans
 
-### Interests
-- Full-Stack Development
-- Open Source
-- Cloud Technologies
-- Problem Solving
+## 📚 Projetos
 
-## 📈 GitHub Stats
+### 🔹 Desafio Colaborativo Git
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ludmily2007-lang&show_icons=true&theme=radical)
+Projeto acadêmico desenvolvido para praticar Git e GitHub, trabalhando com branches, commits, Issues, Pull Requests e colaboração entre integrantes.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ludmily2007-lang&layout=compact&theme=radical)
+🔗 [Acessar projeto](https://github.com/ludmily2007-lang/desafio-colaborativo-git)
 
-## 🎯 Featured Projects
+### 🔹 Projetos de Banco de Dados
 
-Check out some of my most interesting work:
+Projetos acadêmicos envolvendo criação de tabelas, relacionamentos, chaves primárias e estrangeiras e consultas utilizando SQL e INNER JOIN.
 
-- **[Project Name](#)** - Brief description of what this project does
-- **[Another Project](#)** - What makes this project special
-- **[Cool Tool](#)** - Why you should care about this one
+### 🔹 Projetos de Desenvolvimento Web
 
-## 📚 Learning & Growth
+Atividades práticas envolvendo HTML, CSS, PHP, banco de dados e desenvolvimento de aplicações web.
 
-Always expanding my skillset! Currently exploring:
-- Advanced system design patterns
-- Cloud architecture
-- Emerging technologies
+## 🎯 Atualmente
 
-## 🤝 Let's Connect
+- 🎓 Cursando Sistemas de Informação
+- 💻 Desenvolvendo projetos acadêmicos
+- 🗄️ Aprimorando meus conhecimentos em Banco de Dados
+- 🌐 Estudando Desenvolvimento Web
+- 🔧 Praticando Git e GitHub
+- 📚 Buscando evoluir continuamente na área de Tecnologia da Informação
 
-I'm always open to interesting conversations, collaboration opportunities, and new challenges!
+## 📫 Contato
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+📧 E-mail: ludmily2007@gmail.com
 
-## 📝 Latest Articles
+💻 GitHub: [ludmily2007-lang](https://github.com/ludmily2007-lang)
 
-<!-- Blog posts will appear here -->
-
----
-
-**Thanks for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome. ⭐
+🔗 LinkedIn: coloque aqui seu LinkedIn
